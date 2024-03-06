@@ -5,9 +5,14 @@
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
- 
+
 .hero .container {
   margin-right: 25%;
+}
+
+
+.hero img {
+  z-index: 1;
 }
 
 .hero button:hover,
