@@ -5,3 +5,14 @@
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+ 
+.hero .container {
+  margin-right: 25%;
+}
+
+.hero button:hover,
+nav li:hover,
+header h1:hover {
+  transform: scale(1.1);
+  transition: 0.5s ease-in-out;
+}
